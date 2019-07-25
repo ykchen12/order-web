@@ -1,0 +1,13 @@
+[{'id': 37, 'title': '显示器申请', 'workflow': {'workflow_id': 5, 'workflow_name': '物品申请'}, 'sn': 'zkml_201906190006', 'state': {'state_id': 20, 'state_name': '部门审批', 'st
+ate_label': {}}, 'parent_ticket_id': 0, 'parent_ticket_state_id': 0, 'participant_info': {'participant': 'zhangyl,chenyk,qiaoyl', 'participant_name': 'zhangyl,chenyk,qiaoyl', 'participant_type_id': 2, 'part
+icipant_type_name': '多人', 'participant_alias': '张玉亮,chenyk,乔印路'}, 'creator': 'wuf', 'creator_info': {'username': 'wuf', 'alias': '吴飞', 'is_active': True, 'email': 'wuf@izkml.com', 'phone': '138888
+88888'}, 'gmt_created': '2019-06-19 15:57:40', 'gmt_modified': '2019-06-19 15:57:40'}, {'id': 36, 'title': '132231', 'workflow': {'workflow_id': 5, 'workflow_name': '物品申请'}, 'sn': 'zkml_201906190005', '
+state': {'state_id': 20, 'state_name': '部门审批', 'state_label': {}}, 'parent_ticket_id': 0, 'parent_ticket_state_id': 0, 'participant_info': {'participant': 'zhangyl,chenyk,qiaoyl', 'participant_name': 'z
+hangyl,chenyk,qiaoyl', 'participant_type_id': 2, 'participant_type_name': '多人', 'participant_alias': '张玉亮,chenyk,乔印路'}, 'creator': 'wuf', 'creator_info': {'username': 'wuf', 'alias': '吴飞', 'is_act
+ive': True, 'email': 'wuf@izkml.com', 'phone': '13888888888'}, 'gmt_created': '2019-06-19 15:21:54', 'gmt_modified': '2019-06-19 15:21:54'}, {'id': 35, 'title': '', 'workflow': {'workflow_id': 5, 'workflow_
+name': '物品申请'}, 'sn': 'zkml_201906190004', 'state': {'state_id': 20, 'state_name': '部门审批', 'state_label': {}}, 'parent_ticket_id': 0, 'parent_ticket_state_id': 0, 'participant_info': {'participant':
+ 'zhangyl,chenyk,qiaoyl', 'participant_name': 'zhangyl,chenyk,qiaoyl', 'participant_type_id': 2, 'participant_type_name': '多人', 'participant_alias': '张玉亮,chenyk,乔印路'}, 'creator': 'wuf', 'creator_inf
+o': {'username': 'wuf', 'alias': '吴飞', 'is_active': True, 'email': 'wuf@izkml.com', 'phone': '13888888888'}, 'gmt_created': '2019-06-19 15:14:43', 'gmt_modified': '2019-06-19 15:14:43'}, {'id': 34, 'title
+': 'NIHAO ', 'workflow': {'workflow_id': 3, 'workflow_name': '办公电脑问题'}, 'sn': 'loonflow_201906190003', 'state': {'state_id': 16, 'state_name': '结束', 'state_label': {}}, 'parent_ticket_id': 0, 'paren
+t_ticket_state_id': 0, 'participant_info': {'participant': '', 'participant_name': '', 'participant_type_id': 0, 'participant_type_name': '', 'participant_alias': ''}, 'creator': 'wuf', 'creator_info': {'us
+ername': 'wuf', 'alias': '吴飞', 'is_active': True, 'email': 'wuf@izkml.com', 'phone': '13888888888'}, 'gmt_created': '2019-06-19 09:38:10', 'gmt_modified': '2019-06-19 13:58:13'}]
